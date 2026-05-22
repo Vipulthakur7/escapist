@@ -2,6 +2,8 @@
 
 A high-end, fully-featured travel portal for corporate employees in India to discover unexplored destinations, plan budgets, generate leave emails, and make the most of every 2026 long weekend.
 
+Live URL - https://vip-escapist.netlify.app/
+
 ---
 
 ## ✨ Features
